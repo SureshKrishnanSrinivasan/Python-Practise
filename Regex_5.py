@@ -1,4 +1,4 @@
-# match a string with an 'a' followed by three 'b'
+# match a string with an 'a' followed by two or three 'b's'
 
 import re
 string = input('Please enter a number: ')
